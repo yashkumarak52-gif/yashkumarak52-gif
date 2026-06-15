@@ -31,16 +31,16 @@ I'm **Yash Kumar**, a **Data Analyst** who enjoys digging into messy datasets an
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
+<a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+<a href="https://www.tableau.com" target="_blank"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -50,16 +50,16 @@ I'm **Yash Kumar**, a **Data Analyst** who enjoys digging into messy datasets an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashkumarak52-gif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumarak52-gif&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashkumarak52-gif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=440" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumarak52-gif&layout=compact&theme=tokyonight&hide_border=true&card_width=320" width="40%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumarak52-gif&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumarak52-gif&theme=tokyonight&hide_border=true" width="65%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkumarak52-gif&theme=react-dark&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkumarak52-gif&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
