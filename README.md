@@ -21,7 +21,7 @@ I'm **Yash Kumar**, a **Data Analyst** who enjoys digging into messy datasets an
 🔭 Currently Working On: Dashboards & SQL case studies
 🌱 Currently Learning: Advanced Excel, Power BI & Python automation
 💬 Ask Me About: Data cleaning, EDA, dashboards, data storytelling
-📫 Reach Me At: your.email@example.com
+📫 Reach Me At: yashkumar.ak52@gmail.com
 ⚡ Fun Fact: I find clean datasets oddly satisfying
 ```
 
