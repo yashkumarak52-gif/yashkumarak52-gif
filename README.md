@@ -68,7 +68,7 @@ I'm **Yash Kumar**, a **Data Analyst** who enjoys digging into messy datasets an
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashkumarak52-gif&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=yashkumarak52-gif&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="80%"/>
 </div>
 
 ---
